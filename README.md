@@ -1,2 +1,2 @@
 # microservice
-Spring Boot micros service sample project.
+Spring Boot microservice sample project.
